@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_note_text">اضف نوته</string>
+    <string name="read_permission_required">"صلاحية الوصول للصوره مطلوبه "</string>
+    <string name="select_picture">اختر صوره</string>
+    <string name="failed_to_get_image">فشل الوصول الى الصوره</string>
+</resources>
